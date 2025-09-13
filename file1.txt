@@ -1,1 +1,3 @@
 User story file1
+
+Added for story3
